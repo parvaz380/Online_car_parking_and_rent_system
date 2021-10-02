@@ -1,0 +1,54 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.menu-section{
+	background:#008891;
+	padding-top: 1px;
+}
+
+
+.menu-section  .col-md-3 img{
+ width: 200px;
+ height: 70px;
+margin-top: 8px;
+margin-bottom: 7px;
+margin-left: 5px;
+
+}
+
+.menu-section .col-md-9 ul{
+	margin-right: 20px !important;
+
+}
+
+.menu-section .col-md-9 ul li{
+	padding-right: 20px;
+    margin-right: 5px;
+
+}
+
+.menu-section .col-md-9 ul li a{
+	color:#000;
+	font-weight: 100;
+	text-transform: uppercase;
+	margin-top: 8px;
+	margin-right: 5px;
+
+	
+
+}
+.menu-section .col-md-9 ul li:hover a{
+	background-color: #d7385e;
+	border-radius:3px;
+}
+
+ .jumbotron{
+	width: 100%;
+	display: block;
+	background-image: url('images/0.jpg');
+}
+.jumbotron h1{
+	color:#fff;
+}

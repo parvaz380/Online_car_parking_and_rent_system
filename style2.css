@@ -1,0 +1,17 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.top{
+	width: 80%;
+	margin: auto;
+	background-color:  gray;
+}
+.top .menu ul {
+	list-style:  none;
+}
+.top .menu{
+	width: 40%;
+	margin: auto;
+}
